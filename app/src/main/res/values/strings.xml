@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Taller_02</string>
+    <string name="snackbar_dismiss_label">Dismiss</string>
+    <string name="permission_denied_label">No pude obtener el permiso necesario</string>
 </resources>
