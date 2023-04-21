@@ -18,8 +18,7 @@ public class MainActivity extends AppCompatActivity {
         buttonCamera = (Button) findViewById(R.id.botoncamara);
         buttonCamera.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View view) {
-                openNewActivity();
+            public void onClick(View view) {openNewActivity();
             }
         });
         // Segundo botón agregado
